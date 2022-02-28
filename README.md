@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashu1971
-- 👀 I’m interested in java programming and bugbounty and html
-- 🌱 I’m currently learning bugbounty
+- 👀 I’m interested in java programming.
+- 🌱 I’m currently learning.
 - 📫 How to reach me asanavak@gmail.com
 
 <!---
